@@ -24,3 +24,13 @@ to this
 After cleaning, well I had the statement in the format that I wanted. It’s like finishing the dirty job of cleaning squids but now you’re done and can easily cook them in accordance to your recipe. Onto the next task, well I didn’t need the time column honestly. So I dropped it. That was actually the 1st and only thing I dropped on the entire dataset. Safaricom’s data team is doing a good job keeping their data quite easy to work with. Next step, extracting months from the date column. That’s an easy task right! After that I just had to do some analysis on the data, if you notice the workbook names at the bottom of my excel screenshots, well you can see the kind of work I did.
 By 20th of January, I had calculated my monthly expenses, income, read a lot of money books about what situation 21-year old me is in, financially. Back to the interesting stuff, 21 pivot tables later, I actually stayed working on the dashboard, but….. it just didn’t click to me. The plots, analysis, tables, all of that was okay I just didn’t like the design. Tell me if I’m wrong... this is what it looked like. 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yanymt6n1ocnr3mrbwgu.png)
+
+### **Dashboard Template**
+
+Let’s be honest, for your 1st Data analysis project, wouldn’t you want to make a statement. Go big or go home, right! So I took a break from excel and went to the magical place we call the internet. A couple of templates later, I found one that stood out to me… and I worked with it. Call it a coincidence or luck but the template actually had a tutorial for how the shapes would be collected to form one huge palate that is basically the whole design.
+
+So I woke up super happy on the 22nd, opened a new excel workbook and started working on the design of the dashboard. Took me 3 hours to get everything in order, compare what I wanted my dashboard to look like against the template I used as inspiration. 6 days later, I was done. And this is the final result;
+When you open the notebook this is what meets your eyes
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ppmw4bq2aujx7wj6f79.png)
+Page 1, with the data and a connected slicer to filter the data in months, final assessment of my network as of today, and some of the few stuff I wanted to know from my statement.
