@@ -11,8 +11,9 @@ Well I did clean the 9876 rows, I sat down everyday for 30 minutes right before 
 
 I took it from this;
 
-![Screenshot (40).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2c436bad-ea6a-4b13-9d0d-8cf108244ec5/Screenshot_(40).png)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jg4dso06ooard5wmf9q.png)
 
 to this
 
-![Screenshot (39).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26ab1c5c-e73d-4e61-b14e-b93875904c99/Screenshot_(39).png)
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7ek6kq1qnkpcykwigti.png)
