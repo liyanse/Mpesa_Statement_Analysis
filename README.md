@@ -34,3 +34,13 @@ When you open the notebook this is what meets your eyes
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ppmw4bq2aujx7wj6f79.png)
 Page 1, with the data and a connected slicer to filter the data in months, final assessment of my network as of today, and some of the few stuff I wanted to know from my statement.
+## Page 2
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vi43qvu1xh8a0nrpahjy.png)
+The actual work was done here, oh btw, I shaded the money spent on my expenses cause I'm not ready to reveal how bankrupt I am. This was my favorite page, I uploaded some of my understandings from the book, "Psychology of Money"
+
+##Page 3
+Finally, the last page, covers how different I aim to be in 2023. What are my goals and most importantly, can I be able to afford a Z Flip Phone?
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0tabrda9asgh0u6mym9s.png)
+### **The end**
+Enough story telling, I know you're probably wondering, why did it take me a month to do all this, well as I said when I started the story, I had goals for the month of January and I had to try and achieve these goals. However, I tried my best to dedicate at least 30 minutes a day to this project. So I voluntereed 30 minutes from the 3rd - 28th of January. That's a total of 780 minutes which is an equivalent of 13 hours. And if you look at it that way, then it only took me half a day to analyze my financial statement.
