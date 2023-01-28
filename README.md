@@ -1,17 +1,15 @@
 # Mpesa_Statement_Analysis
-So I started working on it around the first weeks of December 2022, definitely started with a lot of expectations. Thought this would be like a one week project and I’d be done, but life hit me with the, “You thought I was feeling you? ha!” Second week of December we had a class trip to Msa and final year project presentations, Third week, we had our final exams and well 4th week is Christmas.
-
-So I started the project again this January, around 3rd, but you know I just finished school, I was super focused on landing a job by the end of January. Life still hitting me with the, you thought I was feeling you😂😂……. anyway, I got back to the project. I gave up on the 5th! “Why?” I bet that’s your question. 
+So I began working on it around the first weeks of December 2022, with a lot of expectations. I thought this would be a one-week project and then I'd be done, but life surprised me by saying, "You thought I was feeling you? ha!" We had a class trip to Msa and final year project presentations the second week of December, final exams the third week, and Christmas the fourth week.
+So I restarted the project in January, around the third, but because I had just finished school, I was super focused on landing a job by the end of the month. Life continues to hit me with the, you thought I was feeling you... Anyway, I returned to the project. I gave up by the 5th day!
+“Why?” I bet that’s your question. 
 
 
 ### **Data Cleaning**
 
-Well you see our mpesa transactions are saved as they are. Not in a way that saves you the job of data cleaning. Imagine going through 9876 rows of data, one row at a time with your mpesa statement next to it, trying to imagine what exactly you were paying for in that Till Number! Those were the struggles. I’d find myself paying over 800 bob to a till number but no record of what I was paying for!!!!!!!! How do I keep track of my expenses without the proof of what you were purchasing. So I gave up. I wasn’t going to clean all those rows on my own. Who me! Never!
+As you can see, our mpesa transactions are saved alongside our other transactions. Not in a way that will save you time on data cleaning. Imagine going through 9876 rows of data one by one, with your mpesa statement next to it, trying to figure out what you were paying for in that Till Number! Those were the difficulties. I'd end up paying over £800 to a till number with no record of what I was paying for!!!!!!!! How can I keep track of my expenses if I don't have proof of what you bought? As a result, I gave up. I wasn't going to be able to clean all of those rows by myself. Who me! Never!
 
-Well I did clean the 9876 rows, I sat down everyday for 30 minutes right before bed, opened my original mpesa statement, opened the 2022 calender, went through my chats with friends to try and find if I said something to them about going shopping, or going out. Good thing about me, I have a box of most of the receipts I get after shopping, it helps me keep count of my reward points. 10 days later, I was done with renaming the rows, Lemme show you a sneak peek:
-
-I took it from this;
-
+I cleaned the 9876 rows, sat down every night for 30 minutes before bed, accessed my initial mpesa statement, accessed the 2022 calendar, and searched through my discussions with friends to see whether I had mentioned going out or shopping to them. I have a box with most of the receipts I receive after shopping, which is a good thing because it makes it easier for me to track my reward points. After ten days, I had finished renaming the rows. 
+Let me give you a sneak preview.
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jg4dso06ooard5wmf9q.png)
 
@@ -21,26 +19,28 @@ to this
 
 ### **Working on the Data**
 
-After cleaning, well I had the statement in the format that I wanted. It’s like finishing the dirty job of cleaning squids but now you’re done and can easily cook them in accordance to your recipe. Onto the next task, well I didn’t need the time column honestly. So I dropped it. That was actually the 1st and only thing I dropped on the entire dataset. Safaricom’s data team is doing a good job keeping their data quite easy to work with. Next step, extracting months from the date column. That’s an easy task right! After that I just had to do some analysis on the data, if you notice the workbook names at the bottom of my excel screenshots, well you can see the kind of work I did.
-By 20th of January, I had calculated my monthly expenses, income, read a lot of money books about what situation 21-year old me is in, financially. Back to the interesting stuff, 21 pivot tables later, I actually stayed working on the dashboard, but….. it just didn’t click to me. The plots, analysis, tables, all of that was okay I just didn’t like the design. Tell me if I’m wrong... this is what it looked like. 
+After cleaning, I had the statement in the format I desired. It's similar to finishing the dirty job of cleaning squids, but now you're finished and can easily cook them according to your recipe. On to the next task, honestly I didn't need the time column. As a result, I dropped it. That was the first and only thing I did on the entire dataset. Safaricom's data team does an excellent job of making their data easy to work with. The following step is to extract months from the date column. That should be a simple task, right? After that, I just had to do some data analysis; if you notice the workbook names at the bottom of my excel screenshots, you can see the work I did.
+By the 20th of January, I had calculated my monthly expenses, income, and read a lot of money books about the financial situation of a 21-year-old me. Back to the interesting stuff, 21 pivot tables later, I actually continued working on the dashboard, but..... The plots, analysis, and tables were all fine; I just didn't like the design. Please correct me if I'm wrong, but this is how it appeared.
+
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yanymt6n1ocnr3mrbwgu.png)
 
 ### **Dashboard Template**
+Let's be honest: wouldn't you want to make a statement for your first data analysis project? Right, go big or go home! So I took a break from Excel and went to the enchanted land known as the internet. After a few templates, I found one that stood out to me... and I worked with it. Call it a coincidence or luck, but the template included a tutorial on how to combine the shapes to form one large palette, which is basically the entire design.
 
-Let’s be honest, for your 1st Data analysis project, wouldn’t you want to make a statement. Go big or go home, right! So I took a break from excel and went to the magical place we call the internet. A couple of templates later, I found one that stood out to me… and I worked with it. Call it a coincidence or luck but the template actually had a tutorial for how the shapes would be collected to form one huge palate that is basically the whole design.
+So I woke up on the 22nd, opened a new Excel workbook, and began working on the dashboard design. It took me three hours to organize everything and compare what I wanted my dashboard to look like to the template I used as inspiration. I finished in 6 days. And this is the end result; this is what you see when you open the notebook.
+Page 1 includes the data and a connected slicer to filter the data in months, my final assessment of my network as of today, and some of the few things I wanted to know from my statement.
 
-So I woke up super happy on the 22nd, opened a new excel workbook and started working on the design of the dashboard. Took me 3 hours to get everything in order, compare what I wanted my dashboard to look like against the template I used as inspiration. 6 days later, I was done. And this is the final result;
-When you open the notebook this is what meets your eyes
+
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ppmw4bq2aujx7wj6f79.png)
 Page 1, with the data and a connected slicer to filter the data in months, final assessment of my network as of today, and some of the few stuff I wanted to know from my statement.
 ## Page 2
-
+The actual work was completed here; oh, and by the way, I shaded the money spent on my expenses because I'm not ready to reveal how bankrupt I am. This was my favorite page because I uploaded some of my insights from the book "Psychology of Money."
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vi43qvu1xh8a0nrpahjy.png)
-The actual work was done here, oh btw, I shaded the money spent on my expenses cause I'm not ready to reveal how bankrupt I am. This was my favorite page, I uploaded some of my understandings from the book, "Psychology of Money"
+
 
 ##Page 3
-Finally, the last page, covers how different I aim to be in 2023. What are my goals and most importantly, can I be able to afford a Z Flip Phone?
+Finally, the final page discusses how different I hope to be in 2023. What are my objectives, and, most importantly, can I afford a Z Flip Phone?
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0tabrda9asgh0u6mym9s.png)
 ### **The end**
-Enough story telling, I know you're probably wondering, why did it take me a month to do all this, well as I said when I started the story, I had goals for the month of January and I had to try and achieve these goals. However, I tried my best to dedicate at least 30 minutes a day to this project. So I voluntereed 30 minutes from the 3rd - 28th of January. That's a total of 780 minutes which is an equivalent of 13 hours. And if you look at it that way, then it only took me half a day to analyze my financial statement.
+Enough rambling; I know you're probably asking why it took me a month to do all of this. As I mentioned when I began the narrative, I had goals for the month of January that I had to work toward. I did, however, make an effort to work on this project for at least 30 minutes each day. So from January 3rd to January 28th, I volunteered for 30 minutes. There are 780 minutes in all, which equates to 13 hours. And if you think of in that way, analyzing my financial statement only took me a half-day.
