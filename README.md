@@ -1,15 +1,15 @@
 # Mpesa_Statement_Analysis
 So I began working on it around the first weeks of December 2022, with a lot of expectations. I thought this would be a one-week project and then I'd be done, but life surprised me by saying, "You thought I was feeling you? ha!" We had a class trip to Msa and final year project presentations the second week of December, final exams the third week, and Christmas the fourth week.
-So I restarted the project in January, around the third, but because I had just finished school, I was super focused on landing a job by the end of the month. Life continues to hit me with the, you thought I was feeling you... Anyway, I returned to the project. I gave up by the 5th day!
-“Why?” I bet that’s your question. 
+So I restarted the project in January, around the 3rd, but because I had just finished school, I was super focused on landing a job by the end of the month. Life continues to hit me with the, sike!!!1 Anyway, I returned to the project. I gave up by the 5th day!
+I bet you're wondering why 
 
 
 ### **Data Cleaning**
 
-As you can see, our mpesa transactions are saved alongside our other transactions. Not in a way that will save you time on data cleaning. Imagine going through 9876 rows of data one by one, with your mpesa statement next to it, trying to figure out what you were paying for in that Till Number! Those were the difficulties. I'd end up paying over £800 to a till number with no record of what I was paying for!!!!!!!! How can I keep track of my expenses if I don't have proof of what you bought? As a result, I gave up. I wasn't going to be able to clean all of those rows by myself. Who me! Never!
+As you can see, our mpesa statements are saved alongside our original transactions. Not in a way that will save you time on data cleaning. Imagine going through 9876 rows of data one by one, with your mpesa statement next to it, trying to figure out what you were paying for in that Till Number! Those were the difficulties. I'd end up paying over Kshs 800 to a till number with no record of what I was paying for!!!!!!!! How can I keep track of my expenses if I don't have proof of what I bought? As a result, I gave up. I wasn't going to be able to clean all of those rows by myself. Who me! Never!
 
-I cleaned the 9876 rows, sat down every night for 30 minutes before bed, accessed my initial mpesa statement, accessed the 2022 calendar, and searched through my discussions with friends to see whether I had mentioned going out or shopping to them. I have a box with most of the receipts I receive after shopping, which is a good thing because it makes it easier for me to track my reward points. After ten days, I had finished renaming the rows. 
-Let me give you a sneak preview.
+I cleaned the 9876 rows, sat down every night for 30 minutes before bed, accessed my initial mpesa statement, accessed the 2022 calendar, and searched through my chats with friends to see whether I had mentioned going out or shopping to them. Luckily, I have a box with most of the receipts I receive after shopping, which is a good thing because it makes it easier for me to track my reward points. After ten days, I had finished renaming the rows. 
+Let me give you a sneak preview, so I took it from this......
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jg4dso06ooard5wmf9q.png)
 
