@@ -1,7 +1,7 @@
 # Mpesa_Statement_Analysis
 So I began working on it around the first weeks of December 2022, with a lot of expectations. I thought this would be a one-week project and then I'd be done, but life surprised me by saying, "You thought I was feeling you? ha!" We had a class trip to Msa and final year project presentations the second week of December, final exams the third week, and Christmas the fourth week.
-So I restarted the project in January, around the third, but because I had just finished school, I was super focused on landing a job by the end of the month. Life continues to hit me with the, you thought I was feeling you... Anyway, I returned to the project. I gave up by the 5th day!
-“Why?” I bet that’s your question. 
+So I restarted the project in January, around the 3rd, but because I had just finished school, I was super focused on landing a job by the end of the month. Life continues to hit me with the, "you thought I was feeling you..." Anyway, I returned to the project. I gave up by the 5th day!
+I bet you're wondering why 
 
 
 ### **Data Cleaning**
