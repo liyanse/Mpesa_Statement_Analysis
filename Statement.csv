@@ -1,0 +1,283 @@
+"",
+TRANSACTION TYPE,PAID IN,PAID OUT,
+SEND MONEY:,0.00,"60,361.00",
+RECEIVED MONEY:,"32,200.00",0.00,
+AGENT DEPOSIT:,0.00,0.00,
+AGENT WITHDRAWAL:,0.00,"10,252.00",
+LIPA NA M-PESA (PAYBILL):,0.00,"8,652.00",
+LIPA NA M-PESA (BUY GOODS):,0.00,"16,389.00",
+OTHERS:,"148,513.00","98,690.00",
+TOTAL:,"180,713.00","194,344.00",
+Receipt No.,Completion Time,Details,Transaction Status,Paid In,Withdrawn,Balance,
+RDP7Z15Y93,2023-04-25 11:07:18,"Customer Transfer to -01******080 Samuel Bigirimana",Completed,,-60.00,"3,675.98",
+RDP5YU5A9H,2023-04-25 09:47:15,"Customer Transfer to -2547******462 GILBERTKENYANYA",Completed,,-50.00,"3,735.98",
+RDP6YR5VPY,2023-04-25 09:11:57,"Customer Transfer to -07******098 JOHN MURIITHI",Completed,,-80.00,"3,785.98",
+RDP9YQGPT9,2023-04-25 09:03:33,"Customer Transfer to -2547******117 OLIVIERNSHIMIRIMANA",Completed,,-50.00,"3,865.98",
+RDO6XXFNNE,2023-04-24 19:55:21,"Customer Transfer to -01******925 SAMWEL MIKURA",Completed,,-80.00,"3,915.98",
+RDO1XU8TN3,2023-04-24 19:33:42,"Customer Transfer to -2547******628 HARUN MWENDA",Completed,,-20.00,"3,995.98",
+RDO2XJUCP8,2023-04-24 18:24:23,"M-Shwari Lock Withdraw toSavings",Completed,0.00,,"4,015.98",
+RDO2XJMFPI,2023-04-24 18:22:41,M-Shwari Deposit,Completed,,"-11,000.00","4,015.98",
+RDO4XJG4RU,2023-04-24 18:21:18,"Business Payment from 300600 -Equity Bulk Account via API.Original conversation ID isEQ476943286110.",Completed,"15,000.00",,"15,015.98",
+RDO0WX02V2,2023-04-24 14:48:03,"Customer Transfer of FundsCharge",Completed,,-75.00,15.98,
+RDO0WX02V2,2023-04-24 14:48:03,"Customer Transfer to -2547******699 PHILIP OTIENO",Completed,,"-6,000.00",90.98,
+RDO9WV30G7,2023-04-24 14:27:33,"Customer Transfer of FundsCharge",Completed,,-55.00,"6,090.98",
+RDO9WV30G7,2023-04-24 14:27:33,"Customer Transfer to -07******916 LIANS WANJIKU",Completed,,"-5,000.00","6,145.98",
+RDO1WV1FJ3,2023-04-24 14:27:15,M-Shwari Withdraw,Completed,"9,500.00",,"11,145.98",
+RDO0WTRHRS,2023-04-24 14:13:29,"Funds received from -2547******628 HARUN MWENDA",Completed,500.00,,"1,645.98",
+RDO0WDFUOG,2023-04-24 11:17:52,"Customer Transfer to -07******150 Wycliffe Bosire",Completed,,-35.00,"1,145.98",
+RDO1WBOBJT,2023-04-24 10:57:39,"Customer Transfer to -01******080 Samuel Bigirimana",Completed,,-25.00,"1,180.98",
+RDO9W9UU9T,2023-04-24 10:36:54,"Customer Transfer of FundsCharge",Completed,,-55.00,"1,205.98",
+RDO9W9UU9T,2023-04-24 10:36:54,"Customer Transfer to -2547******209 LOISE KANG'ETHE",Completed,,"-5,000.00","1,260.98",
+RDO3W5VCFX,2023-04-24 09:51:50,Buy Bundles Online,Completed,,-5.00,"6,260.98",
+RDO7W5NMGJ,2023-04-24 09:49:12,KCB M-PESA Withdraw,Completed,"5,500.00",,"6,265.98",
+RDO9W5LB69,2023-04-24 09:48:28,M-Shwari Withdraw,Completed,500.00,,765.98,
+RDO7W5K3Y3,2023-04-24 09:48:06,M-Shwari Deposit,Completed,,"-4,000.00",265.98,
+RDO3W30FDP,2023-04-24 09:18:01,Airtime Purchase,Completed,,-50.00,"4,265.98",
+Statement Verification Code,"To verify the validity of this M-PESA statement dial *334#, select My account and follow theprompts to enter the code.",
+"",,
+X939Y29H,,
+Receipt No.,Completion Time,Details,Transaction Status,Paid In,Withdrawn,Balance,
+RDM9T75K6R,2023-04-22 22:23:46,"Customer Transfer of FundsCharge",Completed,,-12.00,"4,315.98",
+RDM9T75K6R,2023-04-22 22:23:46,"Customer Transfer to -07******916 LIANS WANJIKU",Completed,,"-1,000.00","4,327.98",
+RDM5S9GQWT,2023-04-22 17:21:19,Withdrawal Charge,Completed,,-67.00,"5,327.98",
+RDM5S9GQWT,2023-04-22 17:21:19,"Customer Withdrawal At AgentTill 2085798 - SUPREMECONNECTIONS  Wenona chemistKhwisero",Completed,,"-5,000.00","5,394.98",
+RDM9S3LT3P,2023-04-22 16:28:39,"Funds received from -2547******277 Joel Kioko",Completed,"10,000.00",,"10,394.98",
+RDM3RXKCLZ,2023-04-22 15:29:14,"Customer Transfer of FundsCharge",Completed,,-6.00,394.98,
+RDM3RXKCLZ,2023-04-22 15:29:14,"Customer Transfer to -2547******118 JARVIS NGIGI",Completed,,-200.00,400.98,
+RDM3RVL2OX,2023-04-22 15:08:47,"Merchant Payment to 559086 -Cleanshelf Freshmarket branchShujaa mall",Completed,,"-5,418.00",600.98,
+RDM6RVIXV6,2023-04-22 15:08:15,M-Shwari Withdraw,Completed,"1,000.00",,"6,018.98",
+RDM6RVG656,2023-04-22 15:07:24,M-Shwari Withdraw,Completed,"5,000.00",,"5,018.98",
+RDM9RSTLLX,2023-04-22 14:40:12,"Merchant Payment Online to6127253 - BON PARADISEACCESSORIES 5",Completed,,-400.00,18.98,
+RDM8RSS6MW,2023-04-22 14:39:46,KCB M-PESA Withdraw,Completed,400.00,,418.98,
+RDM2RO02R2,2023-04-22 13:50:47,"Customer Transfer to -2547******333 KULALI DISMAS",Completed,,-100.00,18.98,
+RDM4RNYKYQ,2023-04-22 13:50:24,KCB M-PESA Withdraw,Completed,100.00,,118.98,
+RDM9RMEH09,2023-04-22 13:34:12,Buy Bundles,Completed,,-20.00,18.98,
+RDM8RK4ODK,2023-04-22 13:09:51,Withdrawal Charge,Completed,,-27.00,38.98,
+RDM8RK4ODK,2023-04-22 13:09:51,"Customer Withdrawal At AgentTill 343725 - Barrakah EntsMishaicom Agencies SunbeamComplex Mfangano Street",Completed,,-200.00,65.98,
+RDM2RK0DQQ,2023-04-22 13:08:26,KCB M-PESA Withdraw,Completed,200.00,,265.98,
+RDM5RJS19V,2023-04-22 13:06:00,Airtime Purchase,Completed,,-20.00,65.98,
+RDM4RH7BUW,2023-04-22 12:37:17,"Customer Transfer of FundsCharge",Completed,,-32.00,85.98,
+RDM4RH7BUW,2023-04-22 12:37:17,"Customer Transfer to -2547******488 VICKYTONNYANGARESI",Completed,,"-1,700.00",117.98,
+RDM1RH4CV5,2023-04-22 12:36:26,M-Shwari Withdraw,Completed,"1,700.00",,"1,817.98",
+RDM7RGVFIP,2023-04-22 12:33:33,Airtime Purchase,Completed,,-10.00,117.98,
+RDM4RDXI4Y,2023-04-22 12:00:44,Airtime Purchase,Completed,,-10.00,127.98,
+RDM7RDHV0T,2023-04-22 11:55:53,"Customer Transfer of FundsCharge",Completed,,-6.00,137.98,
+RDM7RDHV0T,2023-04-22 11:55:53,"Customer Transfer to -07******925 VICTOR MAKOKHA",Completed,,-130.00,143.98,
+RDM2R5X12O,2023-04-22 10:31:45,"Customer Transfer of FundsCharge",Completed,,-12.00,273.98,
+RDM2R5X12O,2023-04-22 10:31:45,"Customer Transfer to -07******916 LIANS WANJIKU",Completed,,"-1,000.00",285.98,
+RDM2R5VIME,2023-04-22 10:31:24,M-Shwari Withdraw,Completed,"1,000.00",,"1,285.98",
+RDL3Q4LRUP,2023-04-21 20:08:22,"Merchant Payment Online to7539379 - JOYCE AKINYI PAMELA",Completed,,-300.00,285.98,
+RDL3Q4J851,2023-04-21 20:07:49,M-Shwari Withdraw,Completed,300.00,,585.98,
+RDL3P8K3QB,2023-04-21 15:52:46,"Customer Transfer to -07******198 Yvonne Lundu",Completed,,-100.00,285.98,
+RDK3N06OC3,2023-04-20 19:04:50,"Merchant Payment to 7031654 -TOTALENERGIES TEMPLE ROAD",Completed,,-120.00,385.98,
+RDK6MXL2G2,2023-04-20 18:48:29,Buy Bundles,Completed,,-35.00,505.98,
+RDK5M70Q3R,2023-04-20 15:01:29,"Pay Bill to 522522 - KCB PaybillAC Acc. 6015806",Completed,,-90.00,540.98,
+RDK6M01S7I,2023-04-20 13:51:45,Buy Bundles,Completed,,-20.00,630.98,
+RDK9LTCLI3,2023-04-20 12:45:14,Buy Bundles,Completed,,-10.00,650.98,
+RDK1LSOVVV,2023-04-20 12:38:21,"Customer Transfer of FundsCharge",Completed,,-55.00,660.98,
+RDK1LSOVVV,2023-04-20 12:38:21,"Customer Transfer to -07******916 LIANS WANJIKU",Completed,,"-5,000.00",715.98,
+RDK7LSMWEZ,2023-04-20 12:37:50,M-Shwari Withdraw,Completed,"5,000.00",,"5,715.98",
+RDK6LR2LVE,2023-04-20 12:21:26,Airtime Purchase,Completed,,-10.00,715.98,
+RDK8LQNMJC,2023-04-20 12:17:01,"Customer Transfer of FundsCharge",Completed,,-12.00,725.98,
+RDK8LQNMJC,2023-04-20 12:17:01,"Customer Transfer to -2547******542 HARISON KIOKO",Completed,,-510.00,737.98,
+RDK0LNQMOY,2023-04-20 11:46:15,Airtime Purchase,Completed,,-10.00,"1,247.98",
+RDK0LHHQLI,2023-04-20 10:38:37,"Customer Transfer to -01******080 Samuel Bigirimana",Completed,,-35.00,"1,257.98",
+Statement Verification Code,"To verify the validity of this M-PESA statement dial *334#, select My account and follow theprompts to enter the code.",
+"",,
+X939Y29H,,
+Receipt No.,Completion Time,Details,Transaction Status,Paid In,Withdrawn,Balance,
+RDK2LF45XE,2023-04-20 10:13:11,"Customer Payment to SmallBusiness to - 2547******250JAMES KIAMA",Completed,,-50.00,"1,292.98",
+RDK8LBWFSG,2023-04-20 09:38:30,"Customer Transfer to -2547******373 NELSON SIMBA",Completed,,-80.00,"1,342.98",
+RDK7KYNZRN,2023-04-20 06:26:46,KCB M-PESA Deposit,Completed,,"-5,000.00","1,422.98",
+RDK3KYNGHN,2023-04-20 06:26:08,M-Shwari Withdraw,Completed,"5,900.00",,"6,422.98",
+RDK2KYI4WO,2023-04-20 06:21:07,Airtime Purchase,Completed,,-10.00,522.98,
+RDJ2KL1GPE,2023-04-19 21:01:40,"Customer Transfer to -07******151 Angelo Karuri",Completed,,-80.00,532.98,
+RDJ1KGFDST,2023-04-19 20:22:01,"Customer Transfer to -07******150 Wycliffe Bosire",Completed,,-20.00,612.98,
+RDJ7JUI7AX,2023-04-19 17:49:23,"Customer Transfer of FundsCharge",Completed,,-6.00,632.98,
+RDJ7JUI7AX,2023-04-19 17:49:23,"Customer Transfer to -07******198 Yvonne Lundu",Completed,,-300.00,638.98,
+RDJ0JL8AZ2,2023-04-19 16:26:33,"M-Shwari Lock Withdraw toSavings",Completed,0.00,,938.98,
+RDJ4JJY8V8,2023-04-19 16:13:37,Pay Bill Charge,Completed,,-40.00,938.98,
+RDJ4JJY8V8,2023-04-19 16:13:37,"Pay Bill Online to 508885 -CONSOLIDATED BANK OF KENYALIMITED Acc.9939#C025011207/2019",Completed,,"-5,500.00",978.98,
+RDJ8JJTU1U,2023-04-19 16:12:27,M-Shwari Withdraw,Completed,"5,500.00",,"6,478.98",
+RDJ5IOJI79,2023-04-19 10:33:59,M-Shwari Deposit,Completed,,"-39,900.00",978.98,
+RDJ7IOH891,2023-04-19 10:33:15,"Customer Transfer of FundsCharge",Completed,,-87.00,"40,878.98",
+RDJ7IOH891,2023-04-19 10:33:15,"Customer Transfer to -07******916 LIANS WANJIKU",Completed,,"-10,000.00","40,965.98",
+RDJ2IO4A8I,2023-04-19 10:29:11,"Business Payment from 300600 -Equity Bulk Account via API.Original conversation ID isEQ643988188384.",Completed,"50,000.00",,"50,965.98",
+RDJ5IKK45N,2023-04-19 09:48:14,"Pay Bill Online to 826915 -Safaricom Offers Acc. Tunukiwa",Completed,,-10.00,965.98,
+RDJ9IJH1NB,2023-04-19 09:35:24,"Customer Transfer to -07******566 KENNEDY AGOLA",Completed,,-50.00,975.98,
+RDJ7IHPU2P,2023-04-19 09:14:20,"Customer Transfer of FundsCharge",Completed,,-6.00,"1,025.98",
+RDJ7IHPU2P,2023-04-19 09:14:20,"Customer Transfer to -2547******095 Antony Bonzo",Completed,,-130.00,"1,031.98",
+RDJ7IHMO5B,2023-04-19 09:13:24,KCB M-PESA Withdraw,Completed,"1,000.00",,"1,161.98",
+RDJ1IF5ZPX,2023-04-19 08:43:45,M-Shwari Withdraw,Completed,73.00,,161.98,
+RDI7HPV94L,2023-04-18 20:31:16,"Customer Transfer to -2547******374 lucky obell",Completed,,-80.00,88.98,
+RDI1HFDR3L,2023-04-18 19:19:12,Airtime Purchase,Completed,,-5.00,168.98,
+RDI7HE9TGR,2023-04-18 19:12:22,"Merchant Payment Online to863478 - DAD GREENSPAN",Completed,,"-1,510.00",173.98,
+RDI8HE37KM,2023-04-18 19:11:18,KCB M-PESA Withdraw,Completed,"1,600.00",,"1,683.98",
+RDH8F0IG5Y,2023-04-17 20:38:08,"Customer Transfer to -2547******518 Elly Osaha",Completed,,-80.00,235.98,
+RDH1EV9EH1,2023-04-17 19:56:56,"Customer Transfer of FundsCharge",Completed,,-6.00,315.98,
+RDH1EV9EH1,2023-04-17 19:56:56,"Customer Payment to SmallBusiness to - 2547******361JOSEPH KAMENE",Completed,,-350.00,321.98,
+RDH1EV6Z0Z,2023-04-17 19:56:25,KCB M-PESA Withdraw,Completed,400.00,,671.98,
+RDH6ERZZ28,2023-04-17 19:34:52,"Customer Transfer to -2547******208 paul kironji",Completed,,-20.00,271.98,
+RDH5DA5E5X,2023-04-17 11:06:58,"Customer Transfer to -07******150 Wycliffe Bosire",Completed,,-65.00,291.98,
+RDH5D1L6CR,2023-04-17 09:29:04,"Customer Transfer to -07******228 KANGETHE KARANU",Completed,,-50.00,356.98,
+RDH4CYZ6AC,2023-04-17 08:57:30,"Customer Transfer to -2547******329 POLYCAP OTIENO",Completed,,-80.00,406.98,
+RDG7C9NUS5,2023-04-16 20:21:06,Pay Bill Charge,Completed,,-4.00,486.98,
+RDG7C9NUS5,2023-04-16 20:21:06,"Pay Bill to 247247 - EquityPaybill Account Acc. 0111567575",Completed,,-130.00,490.98,
+RDG4C3D0Y2,2023-04-16 19:30:16,Buy Bundles,Completed,,-20.00,620.98,
+RDG0BMT2UQ,2023-04-16 17:14:16,Airtime Purchase,Completed,,-24.00,640.98,
+RDG9AMMKTV,2023-04-16 10:21:11,"Business Payment from 501901 -KCB 1 via API. Originalconversation ID is ADG5JJPACZ.",Completed,400.00,,664.98,
+RDG9AMJWC9,2023-04-16 10:20:13,Airtime Purchase,Completed,,-5.00,264.98,
+RDF17SFY7Z,2023-04-15 10:06:32,Airtime Purchase,Completed,,-10.00,269.98,
+RDE65CZH2U,2023-04-14 12:16:07,Airtime Purchase,Completed,,-10.00,279.98,
+RDE150W4VJ,2023-04-14 09:57:50,"Customer Transfer of FundsCharge",Completed,,-12.00,289.98,
+Statement Verification Code,"To verify the validity of this M-PESA statement dial *334#, select My account and follow theprompts to enter the code.",
+"",,
+X939Y29H,,
+Receipt No.,Completion Time,Details,Transaction Status,Paid In,Withdrawn,Balance,
+RDE150W4VJ,2023-04-14 09:57:50,"Customer Transfer to -2547******073 DOMINIC MONYO",Completed,,-740.00,301.98,
+RDE74Y3JG1,2023-04-14 09:24:17,Buy Bundles,Completed,,-10.00,"1,041.98",
+RDD446YNGQ,2023-04-13 20:35:02,"Merchant Payment to 7051552 -HATHMAN HUSSEIN OMURAMBI",Completed,,-60.00,"1,051.98",
+RDD34306WD,2023-04-13 20:03:16,Buy Bundles,Completed,,-20.00,"1,111.98",
+RDD62B9OUU,2023-04-13 09:47:47,Airtime Purchase,Completed,,-10.00,"1,131.98",
+RDD2261FSU,2023-04-13 08:42:31,Withdrawal Charge,Completed,,-27.00,"1,141.98",
+RDD2261FSU,2023-04-13 08:42:31,"Customer Withdrawal At AgentTill 2026701 - MasharikiInternational Tech Ltd BatteryMasters Bee Center KayoleKayole",Completed,,-300.00,"1,168.98",
+RDC61O9UXY,2023-04-12 21:31:17,"Customer Transfer to -2547******314 DISHONMUYINGOYA",Completed,,-70.00,"1,468.98",
+RDC31LVOA1,2023-04-12 21:05:57,"Customer Transfer to -2547******447 JOHN CHEGE",Completed,,-80.00,"1,538.98",
+RDC71K4JKD,2023-04-12 20:49:30,"Customer Transfer to -07******150 Wycliffe Bosire",Completed,,-20.00,"1,618.98",
+RDC9YIO2D3,2023-04-12 09:02:43,"Customer Payment to SmallBusiness to - 2547******826EVANS MOGIRI",Completed,,-50.00,"1,638.98",
+RDC3YF2CCN,2023-04-12 08:16:24,"Customer Transfer to -2547******048 DANCAN OTIENO",Completed,,-80.00,"1,688.98",
+RDB0XXKG08,2023-04-11 21:12:26,"Funds received from -07******916 LIANS WANJIKU",Completed,"1,000.00",,"1,768.98",
+RDB8XUNFAM,2023-04-11 20:44:43,"Merchant Payment to 559086 -Cleanshelf Freshmarket branchShujaa mall",Completed,,-321.00,768.98,
+RDB5XU9JNL,2023-04-11 20:41:22,KCB M-PESA Withdraw,Completed,"1,000.00",,"1,089.98",
+RDB3XPAB0T,2023-04-11 20:02:12,"Merchant Payment to 7379670 -RICHARD OGEGA BWONDA",Completed,,-80.00,89.98,
+RDB6XIT3J4,2023-04-11 19:19:31,"Customer Transfer to -2547******559 JAMES OOGA",Completed,,-30.00,169.98,
+RDB6WCFN5Y,2023-04-11 12:49:49,"Customer Transfer to -07******150 Wycliffe Bosire",Completed,,-65.00,199.98,
+RDB1VTHCMZ,2023-04-11 09:17:11,"Customer Transfer to -07******279 patrick ambaisi",Completed,,-50.00,264.98,
+RDB8VPJKYO,2023-04-11 08:28:06,"Merchant Payment to 6187718 -Felix Arum Adienge",Completed,,-80.00,314.98,
+RDA5UBDGEV,2023-04-10 16:51:52,Airtime Purchase,Completed,,-50.00,394.98,
+RDA6U9U33G,2023-04-10 16:36:43,"Customer Transfer of FundsCharge",Completed,,-12.00,444.98,
+RDA6U9U33G,2023-04-10 16:36:43,"Customer Transfer to -07******294 LOVINS AMBUNYA",Completed,,-700.00,456.98,
+RDA9TUNZSJ,2023-04-10 13:52:55,"Customer Transfer to -2547******219 BERNARDGACHERU",Completed,,-50.00,"1,156.98",
+RDA2TSDFSE,2023-04-10 13:28:28,"Customer Transfer of FundsCharge",Completed,,-6.00,"1,206.98",
+RDA2TSDFSE,2023-04-10 13:28:28,"Customer Payment to SmallBusiness to - 07******001 MercyKimotho",Completed,,-110.00,"1,212.98",
+RDA6TRNEH6,2023-04-10 13:20:44,"Merchant Payment to 789126 -NARTERLY OGORE ONYANGOVIACOOP BANK",Completed,,"-3,000.00","1,322.98",
+RDA3TRLJOX,2023-04-10 13:20:04,KCB M-PESA Withdraw,Completed,"3,000.00",,"4,322.98",
+RDA3TOPV1X,2023-04-10 12:48:19,Airtime Purchase,Completed,,-5.00,"1,322.98",
+RDA6TONLQS,2023-04-10 12:47:32,Pay Bill Charge,Completed,,-4.00,"1,327.98",
+RDA6TONLQS,2023-04-10 12:47:32,"Pay Bill to 888880 - KPLCPREPAID Acc. 37155818398",Completed,,-500.00,"1,331.98",
+RD94RPUQZQ,2023-04-09 16:26:36,"Merchant Payment Online to7296830 - ANGE GLADYS",Completed,,-250.00,"1,831.98",
+RD92R9A47K,2023-04-09 13:26:18,Withdrawal Charge,Completed,,-27.00,"2,081.98",
+RD92R9A47K,2023-04-09 13:26:18,"Customer Withdrawal At AgentTill 2085798 - SUPREMECONNECTIONS  Wenona chemistKhwisero",Completed,,-200.00,"2,108.98",
+RD92R78DLG,2023-04-09 13:01:42,Airtime Purchase,Completed,,-10.00,"2,308.98",
+RD80PNAHDW,2023-04-08 18:57:09,"Customer Transfer to -2547******936 ROBERTGIKONYO",Completed,,-100.00,"2,318.98",
+RD80PDZZXO,2023-04-08 17:42:48,"Merchant Payment Online to7708762 -           DOMINIONMICRO ENTERPRISE",Completed,,"-3,600.00","2,418.98",
+RD82PDN4SY,2023-04-08 17:39:46,M-Shwari Withdraw,Completed,300.00,,"6,018.98",
+RD89PDM79D,2023-04-08 17:39:28,M-Shwari Withdraw,Completed,"4,000.00",,"5,718.98",
+RD81P3ANGT,2023-04-08 16:04:59,Pay Bill Charge,Completed,,-2.00,"1,718.98",
+RD81P3ANGT,2023-04-08 16:04:59,"Pay Bill Online to 220220 -PesaPal Acc. 0754295580",Completed,,-100.00,"1,720.98",
+Statement Verification Code,"To verify the validity of this M-PESA statement dial *334#, select My account and follow theprompts to enter the code.",
+"",,
+X939Y29H,,
+Receipt No.,Completion Time,Details,Transaction Status,Paid In,Withdrawn,Balance,
+RD89P368DT,2023-04-08 16:03:42,Airtime Purchase,Completed,,-50.00,"1,820.98",
+RD86OLK8HG,2023-04-08 13:06:51,"Merchant Payment to 7068747 -ALBANUS NTHIANI 1",Completed,,-100.00,"1,870.98",
+RD82OL14NY,2023-04-08 13:01:16,"Merchant Payment to 7068747 -ALBANUS NTHIANI 1",Completed,,-100.00,"1,970.98",
+RD80OKYC4G,2023-04-08 13:00:35,M-Shwari Withdraw,Completed,"2,000.00",,"2,070.98",
+RD86O58OY6,2023-04-08 10:11:45,"Customer Transfer of FundsCharge",Completed,,-6.00,70.98,
+RD86O58OY6,2023-04-08 10:11:45,"Customer Transfer to -07******188 ANTONY NZIOKA",Completed,,-300.00,76.98,
+RD71N0BYTJ,2023-04-07 19:33:08,"Customer Transfer of FundsCharge",Completed,,-22.00,376.98,
+RD71N0BYTJ,2023-04-07 19:33:08,"Customer Transfer to -2547******667 DENNIS KARANJA",Completed,,"-1,500.00",398.98,
+RD70N083YW,2023-04-07 19:32:28,M-Shwari Withdraw,Completed,"1,500.00",,"1,898.98",
+RD70MOT28U,2023-04-07 18:13:59,Pay Bill Charge,Completed,,-4.00,398.98,
+RD70MOT28U,2023-04-07 18:13:59,"Pay Bill to 247247 - EquityPaybill Account Acc. 0111567575",Completed,,-250.00,402.98,
+RD78MOQ0D8,2023-04-07 18:13:15,M-Shwari Withdraw,Completed,500.00,,652.98,
+RD74MBYUIE,2023-04-07 16:20:02,KCB M-PESA Deposit,Completed,,"-5,800.00",152.98,
+RD72MBX7VS,2023-04-07 16:19:35,"Customer Transfer of FundsCharge",Completed,,-55.00,"5,952.98",
+RD72MBX7VS,2023-04-07 16:19:35,"Customer Transfer to -2547******685 NICOLE WANJIKU",Completed,,"-5,000.00","6,007.98",
+RD71MBVSX1,2023-04-07 16:19:11,M-Shwari Withdraw,Completed,"11,000.00",,"11,007.98",
+RD73MBCUZ3,2023-04-07 16:13:55,Withdrawal Charge,Completed,,-27.00,7.98,
+RD73MBCUZ3,2023-04-07 16:13:55,"Customer Withdrawal At AgentTill 2092211 - Kisumu GulfResort Hotel Ltdequitorial SafarisAgg",Completed,,-200.00,34.98,
+RD76MBAQKW,2023-04-07 16:13:19,M-Shwari Withdraw,Completed,10.00,,234.98,
+RD74MB85GM,2023-04-07 16:12:28,M-Shwari Withdraw,Completed,200.00,,224.98,
+RD71MAKA2H,2023-04-07 16:05:46,"Customer Transfer of FundsCharge",Completed,,-6.00,24.98,
+RD71MAKA2H,2023-04-07 16:05:46,"Customer Transfer to -2547******365 MICHAEL GITAU",Completed,,-500.00,30.98,
+RD73MAHXCJ,2023-04-07 16:05:08,M-Shwari Withdraw,Completed,530.00,,530.98,
+RD73LQ5RKT,2023-04-07 12:36:49,KCB M-PESA Deposit,Completed,,-256.00,0.98,
+RD71LQ244T,2023-04-07 12:35:41,"Merchant Payment Online to7637205 - Umoja Millers Ruai",Completed,,-850.00,256.98,
+RD78LQ0GW8,2023-04-07 12:35:17,M-Shwari Withdraw,Completed,"1,000.00",,"1,106.98",
+RD70LP4T38,2023-04-07 12:25:56,"Customer Transfer of FundsCharge",Completed,,-6.00,106.98,
+RD70LP4T38,2023-04-07 12:25:56,"Customer Transfer to -07******552 Denis Chepkwony",Completed,,-150.00,112.98,
+RD73LNKD6Z,2023-04-07 12:09:04,"Customer Transfer of FundsCharge",Completed,,-6.00,262.98,
+RD73LNKD6Z,2023-04-07 12:09:04,"Customer Transfer to -2547******591 ELIUD MWINGA",Completed,,-300.00,268.98,
+RD70LNJ0RA,2023-04-07 12:08:43,M-Shwari Withdraw,Completed,300.00,,568.98,
+RD79L4ERU3,2023-04-07 08:39:32,Pay Bill Charge,Completed,,-14.00,268.98,
+RD79L4ERU3,2023-04-07 08:39:32,"Pay Bill Online to 247247 -Equity Paybill Account Acc.427788",Completed,,"-1,500.00",282.98,
+RD76L4CXOM,2023-04-07 08:38:56,M-Shwari Withdraw,Completed,"1,500.00",,"1,782.98",
+RD66KPS3DW,2023-04-06 22:24:48,Pay Bill Charge,Completed,,-4.00,282.98,
+RD66KPS3DW,2023-04-06 22:24:48,"Pay Bill Online to 888880 - KPLCPREPAID Acc. 37155818398",Completed,,-500.00,286.98,
+RD69KPPGX5,2023-04-06 22:23:23,"Customer Transfer of FundsCharge",Completed,,-12.00,786.98,
+RD69KPPGX5,2023-04-06 22:23:23,"Customer Transfer to -2547******685 NICOLE WANJIKU",Completed,,-800.00,798.98,
+RD69KPOL4Z,2023-04-06 22:22:53,M-Shwari Withdraw,Completed,"1,400.00",,"1,598.98",
+RD68KB8HLG,2023-04-06 20:02:49,"Customer Transfer to -2547******055 STANLEYWAWERU",Completed,,-80.00,198.98,
+RD62K8UKCW,2023-04-06 19:46:48,"Customer Transfer of FundsCharge",Completed,,-6.00,278.98,
+RD62K8UKCW,2023-04-06 19:46:48,"Customer Transfer to -07******175 MARY WAMBUI",Completed,,-500.00,284.98,
+RD68K8S2PU,2023-04-06 19:46:20,M-Shwari Withdraw,Completed,500.00,,784.98,
+RD65J9CIY3,2023-04-06 15:06:07,Airtime Purchase,Completed,,-20.00,284.98,
+RD66IEE6QI,2023-04-06 09:45:54,"Customer Transfer to -01******080 Samuel Bigirimana",Completed,,-65.00,304.98,
+RD62IBSVUO,2023-04-06 09:16:47,"Customer Transfer to -2547******870 MORRIS KYALO",Completed,,-50.00,369.98,
+RD64IB5BS6,2023-04-06 09:09:15,M-Shwari Deposit,Completed,,"-19,200.00","1,419.98",
+Statement Verification Code,"To verify the validity of this M-PESA statement dial *334#, select My account and follow theprompts to enter the code.",
+"",,
+X939Y29H,,
+Receipt No.,Completion Time,Details,Transaction Status,Paid In,Withdrawn,Balance,
+RD69I9LBE1,2023-04-06 08:51:01,"Funds received from -2547******277 Joel Kioko",Completed,"20,500.00",,"20,619.98",
+RD60I7ITU8,2023-04-06 08:26:10,"Customer Transfer to -07******287 elius gicobi",Completed,,-80.00,119.98,
+RD61I6RXNJ,2023-04-06 08:16:50,"Customer Transfer to -2547******117 OLIVIERNSHIMIRIMANA",Completed,,-50.00,199.98,
+RD59HDFHH5,2023-04-05 19:54:05,"Customer Transfer to -2547******686 AUGUSTINEOMONDI",Completed,,-80.00,249.98,
+RD50H99ZJG,2023-04-05 19:28:24,"Customer Transfer to -07******896 joseph mwangi",Completed,,-20.00,329.98,
+RD52GAG5MI,2023-04-05 14:37:36,"Customer Transfer of FundsCharge",Completed,,-32.00,349.98,
+RD52GAG5MI,2023-04-05 14:37:36,"Customer Transfer to -07******916 LIANS WANJIKU",Completed,,"-2,000.00",381.98,
+RD59GAE7CF,2023-04-05 14:37:01,M-Shwari Withdraw,Completed,"2,000.00",,"2,381.98",
+RD57FFJCDN,2023-04-05 09:08:13,"Customer Payment to SmallBusiness to - 2547******850Joyce Ateya",Completed,,-50.00,381.98,
+RD56FBW918,2023-04-05 08:24:03,"Customer Transfer to -07******574 BONFACE MAINA",Completed,,-80.00,431.98,
+RD50F9CZQI,2023-04-05 07:50:05,"Customer Transfer of FundsCharge",Completed,,-6.00,511.98,
+RD50F9CZQI,2023-04-05 07:50:05,"Customer Transfer to -07******198 Yvonne Lundu",Completed,,-300.00,517.98,
+RD49EJPVWX,2023-04-04 20:04:55,"Customer Transfer to -2547******055 STANLEYWAWERU",Completed,,-80.00,817.98,
+RD42EBVPSS,2023-04-04 19:15:18,"Customer Transfer to -2547******209 JAMES NYAMBEKI",Completed,,-30.00,897.98,
+RD48EAYZR8,2023-04-04 19:09:49,Buy Bundles,Completed,,-20.00,927.98,
+RD43E46XEH,2023-04-04 18:24:30,"Customer Transfer of FundsCharge",Completed,,-55.00,947.98,
+RD43E46XEH,2023-04-04 18:24:30,"Customer Transfer to -07******916 LIANS WANJIKU",Completed,,"-5,000.00","1,002.98",
+RD46E44XS8,2023-04-04 18:24:08,M-Shwari Withdraw,Completed,"5,000.00",,"6,002.98",
+RD45CQQ6PP,2023-04-04 10:15:01,Buy Bundles,Completed,,-10.00,"1,002.98",
+RD44COHP88,2023-04-04 09:50:25,"Customer Transfer to -01******080 Samuel Bigirimana",Completed,,-65.00,"1,012.98",
+RD42CKO8X0,2023-04-04 09:06:28,"Customer Transfer to -07******004 peter mbiti",Completed,,-50.00,"1,077.98",
+RD49CIP2TX,2023-04-04 08:42:21,M-Shwari Withdraw,Completed,"1,000.00",,"1,127.98",
+RD46CHC4SS,2023-04-04 08:25:29,"Customer Transfer to -2547******159 FELIX MOKI",Completed,,-80.00,127.98,
+RD32BNM0F6,2023-04-03 19:35:55,"Customer Transfer to -2547******447 JOHN CHEGE",Completed,,-80.00,207.98,
+RD32AGCJKA,2023-04-03 13:13:52,Airtime Purchase,Completed,,-10.00,287.98,
+RD36AGBEUU,2023-04-03 13:13:36,"Customer Transfer of FundsCharge",Completed,,-22.00,297.98,
+RD36AGBEUU,2023-04-03 13:13:36,"Customer Transfer to -2547******685 NICOLE WANJIKU",Completed,,"-1,500.00",319.98,
+RD34AG7WKO,2023-04-03 13:12:38,M-Shwari Withdraw,Completed,"1,500.00",,"1,819.98",
+RD36A5FG3M,2023-04-03 11:14:30,Buy Bundles Online,Completed,,-5.00,319.98,
+RD369VUU6K,2023-04-03 09:29:07,"Customer Transfer to -01******080 Samuel Bigirimana",Completed,,-65.00,324.98,
+RD329UITYM,2023-04-03 09:13:38,Airtime Purchase,Completed,,-10.00,389.98,
+RD369TXAJ6,2023-04-03 09:06:36,M-Shwari Deposit,Completed,,"-13,000.00",399.98,
+RD359TK0CZ,2023-04-03 09:02:05,"Customer Transfer of FundsCharge",Completed,,-12.00,"13,399.98",
+RD359TK0CZ,2023-04-03 09:02:05,"Customer Transfer to -2547******432 TERESIA NDUNGU",Completed,,"-1,000.00","13,411.98",
+RD349T7Y00,2023-04-03 08:58:06,"Customer Transfer to -07******805 URBANUS MUTUKU",Completed,,-50.00,"14,411.98",
+RD349QSIDU,2023-04-03 08:28:14,Buy Bundles,Completed,,-10.00,"14,461.98",
+RD258JCCKJ,2023-04-02 17:52:24,Airtime Purchase,Completed,,-10.00,"14,471.98",
+RD2487QX6E,2023-04-02 16:00:57,Withdrawal Charge,Completed,,-67.00,"14,481.98",
+RD2487QX6E,2023-04-02 16:00:57,"Customer Withdrawal At AgentTill 586019 - Rossnet NewBiggining Mobile Repair Agg",Completed,,"-4,000.00","14,548.98",
+RD1154TT1X,2023-04-01 13:58:12,"Merchant Payment to 6194743 -NAZLIN DELIGHT - O",Completed,,-200.00,172.98,
+RD1654QAB0,2023-04-01 13:57:27,M-Shwari Withdraw,Completed,200.00,,372.98,
+RD13459SVL,2023-04-01 07:37:28,Withdrawal Charge,Completed,,-10.00,172.98,
+RD13459SVL,2023-04-01 07:37:28,"Customer Withdrawal At AgentTill 2092211 - Kisumu GulfResort Hotel Ltdequitorial SafarisAgg",Completed,,-100.00,182.98,
+Statement Verification Code,"To verify the validity of this M-PESA statement dial *334#, select My account and follow theprompts to enter the code.",
+"",,
+X939Y29H,,
+Receipt No.,Completion Time,Details,Transaction Status,Paid In,Withdrawn,Balance,
+RD1843P2B8,2023-04-01 07:08:38,"Funds received from -07******916 LIANS WANJIKU",Completed,200.00,,282.98,
+Statement Verification Code,"To verify the validity of this M-PESA statement dial *334#, select My account and follow theprompts to enter the code.",
+"",,
+X939Y29H,,
