@@ -39,7 +39,7 @@ The actual work was completed here; oh, and by the way, I shaded the money spent
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vi43qvu1xh8a0nrpahjy.png)
 
 
-##Page 3
+## Page 3
 Finally, the final page discusses how different I hope to be in 2023. What are my objectives, and, most importantly, can I afford a Z Flip Phone?
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0tabrda9asgh0u6mym9s.png)
 ### **The end**
