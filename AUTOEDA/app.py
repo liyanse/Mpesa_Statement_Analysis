@@ -8,9 +8,9 @@ def main():
  
 	st.markdown('**1. EDA  -** Exploratory data analysis is a way of looking at data to learn more about it.')
 	st.markdown('**2. Visualizations For Linear Models -** Visualizations for linear models are like maps that help us see how two things are related.')
-	st.markdown('**3. Machine Learning Model Building -** Machine learning model building is like teaching a computer to learn by showing it examples.')
+	st.markdown('**3. Building Machine Learning Models  -** Machine learning model building is like teaching a computer to learn by showing it examples.')
 
-	activities = ["EDA","Visualizations For Linear Models","Machine Learning Model Building"]	
+	activities = ["EDA","Visualizations For Linear Models","Building Machine Learning Models"]	
 	choice = st.sidebar.selectbox("Select Services",activities)
 
 	if choice == 'EDA':
@@ -23,16 +23,16 @@ def main():
 			st.success("Data frame loaded successfully")
 			
 
-			if st.checkbox("Show dtypes"):
+			if st.checkbox("Datatypes"):
 				st.write(dataframe.show_dtypes(df))
 
-			if st.checkbox("Show Columns"):
+			if st.checkbox("Dataset Columns"):
 				st.write(dataframe.show_columns(df))
 
-			if st.checkbox("Show Missing"):
+			if st.checkbox("Missing Values"):
 				st.write(dataframe.Show_Missing1(df))
 
-			if st.checkbox("column information"):
+			if st.checkbox("Describe Column"):
 				st.write(info.Column_information(df))
 
 			if st.checkbox("Aggregation Tabulation"):
@@ -44,7 +44,7 @@ def main():
 			if st.checkbox("Statistical Summary"):
 				st.write(info.statistical_summary(df))		
                 
-			if st.checkbox("Show Selected Columns"):
+			if st.checkbox("Select Columns"):
 				selected_columns = st.multiselect("Select Columns",dataframe.show_columns(df))
 				new_df = df[selected_columns]
 				st.dataframe(new_df)
@@ -64,7 +64,7 @@ def main():
 				st.dataframe(imp_df)
 
 
-			if st.checkbox("Missing after DropNA"):
+			if st.checkbox("Missing Values present after DropNA"):
 				st.write(dataframe.Show_Missing(imp_df))
                
 
