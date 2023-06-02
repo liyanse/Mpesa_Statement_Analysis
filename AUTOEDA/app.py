@@ -1,29 +1,10 @@
 from utils import *
 from main import *
-import streamlit as st
-import base64
 
-def add_bgg(image_file):
-    with open(image_file, "rb") as image_file:
-        encoded_string =base64.b64encode(image_file.read())
-        st.markdown(
-            f"""
-            <style>
-            .stApp {{
-                background-iamge: url(data:image/{'jpg'}; base64, {encoded_string.decode()});
-                background-size: cover
-            }}
-            </style
-            """,
-            unsafe_allow_html = True
-        )
-add_bgg('nordwood-themes-R53t-Tg6J4c-unsplash.jpg')
-
- 
 def main():
 	st.title("Automated Explaratory Data Analysis")
 	
-	st.markdown(' Select service from the service menus, we offer services search us; 1. EDA, 2. Visualizations For Linear Models, 3. Machine Learning Model Building for Classification Problem ')
+	st.markdown(' Select service from the service menus, we offer services such as;')
  
 	st.markdown('**1. EDA  -** Exploratory data analysis is a way of looking at data to learn more about it.')
 	st.markdown('**2. Visualizations For Linear Models -** Visualizations for linear models are like maps that help us see how two things are related.')
