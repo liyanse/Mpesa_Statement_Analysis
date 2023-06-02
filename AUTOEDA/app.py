@@ -3,21 +3,18 @@ from main import *
 
 # st.image(image, use_column_width=True)   
 def main():
-	st.title("Auto Exploratory Data Analysis (EDA)")
+	st.title("Automated Explaratory Data Analysis")
 	
-	st.markdown('**Select activity from the side menu**')
+	st.markdown(' Select service from the service menus, we offer services search us; 1. EDA, 2. Visualizations For Linear Models, 3. Machine Learning Model Building for Classification Problem ')
+ 
+	st.markdown('**1. EDA  -** Exploratory data analysis is a way of looking at data to learn more about it.')
+	st.markdown('**2. Visualizations For Linear Models -** Visualizations for linear models are like maps that help us see how two things are related.')
+	st.markdown('**3. Machine Learning Model Building -** Machine learning model building is like teaching a computer to learn by showing it examples.')
 
-	st.markdown('**This web application offers -** 1. General EDA, 2. EDA For Linear Models, 3. Machine Learning Model Building for Classification Problem')
-	st.markdown('**1. General EDA includes -** checking dtypes, viewing columns, viewing missing data, aggregation tabulation, viewing numerical & categorical variables, dropping null values, cross tabulation, Pearson correlation, Spearman correlation, Univariate Analysis which includes - creating histograms, displots, countplots, Bivariate Analysis which includes building scatter plots, bar plots, violin plots, Multivariate Analysis which includes creating histograms, heatmaps, pairplots, word cloud.')
-	st.markdown('**2. EDA for Linear Models includes -** generating qqplots, viewing outliers, creating distplots and performing chi square test.')
-	st.markdown('**3. Machine Learning Model Building includes -** train-test data split & the option to build Logistic Regression, Decision Tree, Random Forest, Naive Bayes & XGB Classifier Baseline Machine Learning models.')
+	activities = ["EDA","Visualizations For Linear Models","Machine Learning Model Building"]	
+	choice = st.sidebar.selectbox("Select Services",activities)
 
-	st.info("Sample dataset for testing -" """https://drive.google.com/file/d/1qGFTj18YbEh9Ct5nHkQWiuYh7APwrWj-/view?usp=sharing""")
-  
-	activities = ["General EDA","EDA For Linear Models","Machine Learning Model Building"]	
-	choice = st.sidebar.selectbox("Select Activities",activities)
-
-	if choice == 'General EDA':
+	if choice == 'EDA':
 		st.title("Exploratory Data Analysis")
 
 		data = st.file_uploader("Upload a dataset (only csv type supported)", type=["csv"])
@@ -47,12 +44,6 @@ def main():
 
 			if st.checkbox("Statistical Summary"):
 				st.write(info.statistical_summary(df))		
-
-# 			if st.checkbox("Show Selected Columns"):
-# 				selected_columns = st.multiselect("Select Columns",all_columns)
-# 				new_df = df[selected_columns]
-# 				st.dataframe(new_df)
-
                 
 			if st.checkbox("Show Selected Columns"):
 				selected_columns = st.multiselect("Select Columns",dataframe.show_columns(df))
@@ -182,11 +173,6 @@ def main():
 			selected_columns_names = st.selectbox("Select Columns for Outliers ",all_columns_names)
 			if st.checkbox("Show Outliers for Selected Variable"):
 				st.write(dataframe.outlier(df[selected_columns_names]))
-
-			# all_columns_names = show_columns(df)         
-			# selected_columns_names = st.selectbox("Select target ",all_columns_names)
-			# if st.checkbox("Anderson Normality Test"):
-			# 	st.write(Anderson_test(df[selected_columns_names]))	
 
 			if st.checkbox("Show Distplot for Selected Columns"):
 				selected_columns_names = st.selectbox("Select Columns for Distplot ",all_columns_names)
