@@ -1,7 +1,25 @@
 from utils import *
 from main import *
+import streamlit as st
+import base64
 
-# st.image(image, use_column_width=True)   
+def add_bgg(image_file):
+    with open(image_file, "rb") as image_file:
+        encoded_string =base64.b64encode(image_file.read())
+        st.markdown(
+            f"""
+            <style>
+            .stApp {{
+                background-iamge: url(data:image/{'jpg'}; base64, {encoded_string.decode()});
+                background-size: cover
+            }}
+            </style
+            """,
+            unsafe_allow_html = True
+        )
+add_bgg('nordwood-themes-R53t-Tg6J4c-unsplash.jpg')
+
+ 
 def main():
 	st.title("Automated Explaratory Data Analysis")
 	
