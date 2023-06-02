@@ -291,7 +291,7 @@ def main():
 				st.write(x)
 
 
-	st.markdown('<style>h1{color: white;}</style>', unsafe_allow_html=True)
+	st.markdown('<style>h1{color: blue;}</style>', unsafe_allow_html=True)
 
 
 if __name__ == '__main__':
