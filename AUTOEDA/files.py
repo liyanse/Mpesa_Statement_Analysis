@@ -1,10 +1,28 @@
-import streamlit as st
+from utils import *
 
-def main():
-    st.title("Read file types into the system")
-    st.markdown(' Select service from the service menus, we offer services such as;')
+
+## Define a class to open and read the file
+class DataFrame_Loader():
+
     
-    dataset_types = ['.csv','.xlsx','.json','.txt']
+    def __init__(self):
+        
+        print("Loading DataFrame")
     
-    result = st.selectbox('Select file type', dataset_types)
-    st.write(f'Reading file type:{result}')
+    ##csv dataset
+    def read_csv(self,data):
+        self.df = pd.read_csv(data)
+        return self.df
+    
+    #xlsx dataset
+    def read_excel(self,data):
+        self.df = pd.read_excel(data)
+        return self.df
+    
+    #json dataset
+    def read_excel(self,data):
+        self.df = pd.read_json(data)
+        return self.df
+    
+    
+    
