@@ -1,6 +1,18 @@
 from utils import *
 from files import *
 
+## Define a class to open and read the csv file
+class DataFrame_Loader():
+
+    
+    def __init__(self):
+        
+        print("Loading DataFrame")
+        
+    def read_csv(self,data):
+        self.df = pd.read_csv(data)
+        return self.df
+
 class EDA_Dataframe_Analysis():
 
     

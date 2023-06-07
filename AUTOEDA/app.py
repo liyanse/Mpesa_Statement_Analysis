@@ -1,5 +1,5 @@
 from utils import *
-from main import *
+from files import *
 
 def main():
 	st.title("Automated Explaratory Data Analysis")
@@ -16,7 +16,7 @@ def main():
 	if choice == 'EDA':
 		st.title("Exploratory Data Analysis")
 
-		data = st.file_uploader("Upload a dataset (only csv type supported)", type=["csv"])
+		data = st.file_uploader("Upload a dataset (only csv type supported)", type=["csv","xlsx","json","txt"])
 		if data is not None:
 			df = load.read_csv(data)
 			st.dataframe(df.head())
