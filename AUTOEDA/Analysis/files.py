@@ -22,7 +22,7 @@ class Load_Dataset():
         return self.df  
     
     #json files
-    # Get the data as a string.
+    # Get the data as a string. 
      # Load the data from the JSON string.
      # If the data is not a dictionary, convert it to a dictionary.
      # Create a DataFrame from the data dictionary.
