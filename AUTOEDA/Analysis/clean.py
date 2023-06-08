@@ -32,12 +32,6 @@ class Understand_Datafame():
         
         return x.columns
     
-    #null values
-    def get_missing_values(self,data):
-        
-        missing_values = data.isnull().sum()
-        missing_values.sort_values(ascending=False, inplace=True)
-        return missing_values
  
  
 class Attribute_Information():
@@ -114,9 +108,40 @@ class Attribute_Information():
  
 class Clean_Dataframe():
     
-    def show_duplicates(self,x):
+    #Show duplicates values
+    def get_duplicate_values(self,data):
         
-        return x.duplicated
+        duplicated_values = data.duplicated()
+        
+        return duplicated_values
     
-   
-     
+    #Show duplicates values
+    def fill_duplicate_values(self,data):
+        
+        drop_duplicates = data.drop_duplicates()
+        
+        return drop_duplicates
+    
+    #null values
+    def get_missing_values(self,data):
+        
+        missing_values = data.isnull().sum()
+        missing_values.sort_values(ascending=False, inplace=True)
+        return missing_values
+    
+    #drop null values
+    def drop_missing_values(self,data):
+        
+        drop_values = data.dropna()
+        return drop_values
+    
+    #fill null values
+    def fill_missing_values(self, data):
+
+        # Fill null values with mean
+        data = data.fillna(data.mean())
+
+        # Save the changes
+        data.fillna(data.mean(), inplace=True)
+
+        return data

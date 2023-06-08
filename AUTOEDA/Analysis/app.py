@@ -5,6 +5,7 @@ from clean import *
 def main():
 
     st.title("Exploratory Data Analysis")
+    st.markdown(" The supported dataset types are json, csv, text and excel sheets")
 
     data = st.file_uploader("Upload a dataset", type=['csv', 'json', 'txt', 'xlsx'])
 
@@ -25,6 +26,8 @@ def main():
         st.dataframe(df.head())
         st.success("Data frame loaded successfully")
         
+        st.title("Understanding your DataFrame")
+        
         if st.checkbox("Shape"):
             st.write(dataframe.show_shape(df))
                 
@@ -44,15 +47,31 @@ def main():
             selected_columns = st.multiselect("Select Columns",dataframe.show_columns(df))
             new_df = df[selected_columns]
             st.dataframe(new_df)
-              
-        if st.checkbox("Null Values"):
-            st.write(dataframe.get_missing_values(df))
+                     
+            
+        st.title("Cleaning your DataFrame")
+        
+        if st.checkbox("Show Duplicated"):
+            st.write(clean.get_duplicate_values(df))
+        
+        if st.checkbox("Drop Duplicates"):
+            st.write(clean.fill_duplicate_values(df))	
+        
+        if st.checkbox("Show Null Values"):
+            st.write(clean.get_missing_values(df))
+        
+        if st.checkbox("Drop Null Values"):
+            st.write(clean.drop_missing_values(df))
+        
+        if st.checkbox("Fill Null Values"):
+            st.write(clean.fill_missing_values(df))
           
 
 if __name__ == '__main__':
     load = Load_Dataset()
     dataframe = Understand_Datafame()
     info = Attribute_Information()
+    clean = Clean_Dataframe()
     main()
  
  
