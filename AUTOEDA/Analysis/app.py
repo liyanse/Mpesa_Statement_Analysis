@@ -77,6 +77,15 @@ def main():
     elif choice == 'Grouping':
         st.title("Group Data")
         
+        # Check if user wants to select columns
+        if st.checkbox("Select Columns"):
+        # Get selected columns
+            selected_columns = st.multiselect("Select Columns", group.group_by(df))
+            grouped_df = df.groupby(selected_columns)
+
+    # Display the grouped DataFrame
+            st.dataframe(grouped_df)
+        
     elif choice == 'Visualization':
         st.title("Visualize and Generate Reports")
 
@@ -85,6 +94,7 @@ if __name__ == '__main__':
     dataframe = Understand_Datafame()
     info = Attribute_Information()
     clean = Clean_Dataframe()
+    group = Group_By()
     main()
  
  

@@ -31,7 +31,7 @@ class Understand_Datafame():
     def show_columns(self,x):
         
         return x.columns
-    
+        
  
  
 class Attribute_Information():
