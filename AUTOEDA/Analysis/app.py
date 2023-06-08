@@ -1,11 +1,12 @@
 from utils import *
 from files import *
 from clean import *
+from sort import *
 
 def main():
 
     st.title("Automated Data Analysis")    
-    activities = ["Exploratory data analysis","Grouping","Visualizations"]	
+    activities = ["Exploratory data analysis","Grouping","Visualization"]	
     
     choice = st.sidebar.selectbox("Select Services",activities)
     
@@ -72,7 +73,12 @@ def main():
             
             if st.checkbox("Fill Null Values"):
                 st.write(clean.fill_missing_values(df))
-          
+    
+    elif choice == 'Grouping':
+        st.title("Group Data")
+        
+    elif choice == 'Visualization':
+        st.title("Visualize and Generate Reports")
 
 if __name__ == '__main__':
     load = Load_Dataset()
