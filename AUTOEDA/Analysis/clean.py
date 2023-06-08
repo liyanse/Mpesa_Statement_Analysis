@@ -1,7 +1,7 @@
 from utils import *
 from files import *
 
-class Clean_Datafame():
+class Understand_Datafame():
     
     """
         In this class; we'll be handling the basic steps we take to clean and understand out dataset
@@ -33,25 +33,15 @@ class Clean_Datafame():
         return x.columns
     
     #null values
-    def show_Missing(self,x):
+    def get_missing_values(self,data):
         
-        return x.isna().sum()
-    
-    def show_Missing1(self,x):
-        
-        return x.isna().sum()
-    
-    def show_Missing2(self,x):
-        
-    	return x.isna().sum()
+        missing_values = data.isnull().sum()
+        missing_values.sort_values(ascending=False, inplace=True)
+        return missing_values
  
  
 class Attribute_Information():
 
-    def __init__(self):
-        
-        print("Attribute Information object created")
-        
     def Column_information(self,data):
     
         data_info = pd.DataFrame(
@@ -80,17 +70,6 @@ class Attribute_Information():
 
 
         return data_info
-
-    def __get_missing_values(self,data):
-        
-        #Getting sum of missing values for each feature
-        missing_values = data.isnull().sum()
-        #Feature missing values are sorted from few to many
-        missing_values.sort_values(ascending=False, inplace=True)
-        
-        #Returning missing values
-        return missing_values
-
         
     def __iqr(self,x):
         return x.quantile(q=0.75) - x.quantile(q=0.25)
@@ -133,3 +112,11 @@ class Attribute_Information():
 
         return data_stat_num
  
+class Clean_Dataframe():
+    
+    def show_duplicates(self,x):
+        
+        return x.duplicated
+    
+   
+     

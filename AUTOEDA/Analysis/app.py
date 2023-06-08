@@ -45,17 +45,13 @@ def main():
             new_df = df[selected_columns]
             st.dataframe(new_df)
               
-        if st.checkbox("DropNA"):
-            imp_df = dataframe.impute(num_df)
-            st.dataframe(imp_df)
-        
-        if st.checkbox("Missing Values present after DropNA"):
-            st.write(dataframe.Show_Missing(imp_df))
+        if st.checkbox("Null Values"):
+            st.write(dataframe.get_missing_values(df))
           
 
 if __name__ == '__main__':
     load = Load_Dataset()
-    dataframe = Clean_Datafame()
+    dataframe = Understand_Datafame()
     info = Attribute_Information()
     main()
  
