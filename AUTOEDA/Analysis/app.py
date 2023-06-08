@@ -34,7 +34,7 @@ def main():
         if st.checkbox("DataTypes"):
             st.write(dataframe.show_dtypes(df))
                                             
-        if st.checkbox("Num Count Summary"):
+        if st.checkbox("Describe"):
             st.write(info.num_count_summary(df))
         
         if st.checkbox("Statistical Summary"):
@@ -44,17 +44,7 @@ def main():
             selected_columns = st.multiselect("Select Columns",dataframe.show_columns(df))
             new_df = df[selected_columns]
             st.dataframe(new_df)
-        
-        if st.checkbox("Numerical Variables"):
-            num_df = dataframe.Numerical_variables(df)
-            numer_df=pd.DataFrame(num_df)                
-            st.dataframe(numer_df)
-        
-        if st.checkbox("Categorical Variables"):
-            new_df = dataframe.categorical_variables(df)
-            catego_df=pd.DataFrame(new_df)                
-            st.dataframe(catego_df)
-        
+              
         if st.checkbox("DropNA"):
             imp_df = dataframe.impute(num_df)
             st.dataframe(imp_df)

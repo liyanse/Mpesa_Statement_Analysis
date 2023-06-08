@@ -23,6 +23,10 @@ class Clean_Datafame():
         
         return x.dtypes
     
+    def show_desc(self, x):
+    
+        return x.describe().drop('count', axis=1)
+    
     #columns
     def show_columns(self,x):
         
