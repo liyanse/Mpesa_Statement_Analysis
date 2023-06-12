@@ -73,18 +73,17 @@ def main():
             
             if st.checkbox("Fill Null Values"):
                 st.write(clean.fill_missing_values(df))
+            # Check if user wants to select columns
+            if st.checkbox("Group Columns"):
+                # Get selected columns
+                selected_columns = st.multiselect("Group Columns", df.columns)
+                grouped_df = df.groupby(by=selected_columns)
+                 # Display the grouped DataFrame
+                st.dataframe(grouped_df)
     
     elif choice == 'Grouping':
         st.title("Group Data")
-        
-        # Check if user wants to select columns
-        if st.checkbox("Select Columns"):
-        # Get selected columns
-            selected_columns = st.multiselect("Select Columns", group.group_by(df))
-            grouped_df = df.groupby(selected_columns)
-
-    # Display the grouped DataFrame
-            st.dataframe(grouped_df)
+          
         
     elif choice == 'Visualization':
         st.title("Visualize and Generate Reports")
